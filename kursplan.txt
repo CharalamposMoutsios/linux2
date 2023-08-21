@@ -1,0 +1,35 @@
+Kursens innehåll
+
+Syftet med kursen är att ge de studerande de kunskaper och färdigheter som krävs för att
+planera och implementera Linuxbaserade tjänster i både utvecklings- och driftsmiljöer.
+Målet med kursen är att de studerande ska kunna utföra administration av Linux i virtuella
+miljöer och använda scriptsspråk med god kunskap i systemsäkerhet och övervakning.
+Studerande kommer vidare att få fördjupade kunskaper i planering, installation,
+säkerhetsinställningar och hur dessa påverkas av att arbeta i en virtuell miljö.
+Efter genomförd kurs ska den studerande ha kunskaper i/om:
+• Administration av Linux-distributioner i virtuella miljöer
+• Systemsäkerhet och hur det fungerar med avseende på användare och grupper,
+både lokalt och via NFS
+• Hur man aktivera, inaktivera och schemalägga tjänster
+• Konfiguration av systemets nätverksparametrar
+• Infrastructure as Code (IaC)
+• Virtualiseringsverktyg, så som KVM och LXC
+Efter genomförd kurs ska den studerande ha färdigheter i att:
+• Konfigurera och administrera följande tjänster på Linuxsystem: DNS, SMTP, FTP,
+SQL-databas och webbserver
+Sida 2
+• Använda CLI för serverhantering, konfiguration, övervakning och administration
+• Hantera volymer i Linux
+• Använda skript för automatisering av drift och arbetsflöden
+• Kunna administrera Linuxsystem i virtuella miljöer
+• Kunna använda automatisering, loggning och andra typer av övervakning
+Efter genomförd kurs ska den studerande ha kompetens för att :
+• Utföra felsökningsprocedurer och optimera systemets prestanda för olika typer av
+vanliga tillämpningar
+• Konfigurera säkerhetsinställningar och rättigheter och förvalta system för att
+tillhandahålla system med hög tillgänglighet och säkerhet
+Examinationsform
+Den studerandes kunskaper, färdigheter och kompetenser bedöms utifrån resultatet av
+följande kunskapskontroller:
+• Tentamen
+• Praktisk laboration
