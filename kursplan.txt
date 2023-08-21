@@ -33,3 +33,48 @@ Den studerandes kunskaper, färdigheter och kompetenser bedöms utifrån resulta
 följande kunskapskontroller:
 • Tentamen
 • Praktisk laboration
+
+
+
+
+---------------------------------------------------------
+
+English version below for Noobs like me:
+
+
+
+
+Course content
+The aim of the course is to give the students the knowledge and skills required to
+plan and implement Linux-based services in both development and operational environments.
+The goal of the course is for the students to be able to perform administration of Linux in virtual
+environments and use scripting languages with good knowledge of system security and monitoring.
+Students will also gain in-depth knowledge in planning, installation,
+security settings and how these are affected by working in a virtual environment.
+After completing the course, the student must have knowledge of/about:
+• Administration of Linux distributions in virtual environments
+• System security and how it works with respect to users and groups,
+both locally and via NFS
+• How to enable, disable and schedule services
+• Configuration of the system's network parameters
+• Infrastructure as Code (IaC)
+• Virtualization tools, such as KVM and LXC
+After completing the course, the student must have the skills to:
+• Configure and administer the following services on Linux systems: DNS, SMTP, FTP,
+SQL database and web server
+Page 2
+• Using the CLI for server management, configuration, monitoring and administration
+• Manage volumes in Linux
+• Use scripts to automate operations and workflows
+• Be able to administer Linux systems in virtual environments
+• Be able to use automation, logging and other types of monitoring
+After completing the course, the student must have the skills to:
+• Perform troubleshooting procedures and optimize system performance for various types of
+common applications
+• Configure security settings and rights and manage systems to
+provide systems with high availability and security
+Examination form
+The student's knowledge, skills and competences are assessed based on the results of
+the following knowledge checks:
+• The exam
+• Practical laboratory
